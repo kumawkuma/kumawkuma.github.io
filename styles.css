@@ -72,6 +72,7 @@ span{
     height: 50px;
     border-radius: 50px 50px 50px 50px;
     background-color: rgb(174, 238, 174);
+    cursor: pointer;
 
 }
 
